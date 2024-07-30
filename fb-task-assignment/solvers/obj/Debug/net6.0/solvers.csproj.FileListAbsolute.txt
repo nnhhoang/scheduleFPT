@@ -1,0 +1,17 @@
+C:\Users\reina\OneDrive\Desktop\Schedule-FPT\fb-task-assignment\solvers\obj\Debug\net6.0\solvers.csproj.AssemblyReference.cache
+C:\Users\reina\OneDrive\Desktop\Schedule-FPT\fb-task-assignment\solvers\obj\Debug\net6.0\solvers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reina\OneDrive\Desktop\Schedule-FPT\fb-task-assignment\solvers\obj\Debug\net6.0\solvers.AssemblyInfoInputs.cache
+C:\Users\reina\OneDrive\Desktop\Schedule-FPT\fb-task-assignment\solvers\obj\Debug\net6.0\solvers.AssemblyInfo.cs
+C:\Users\reina\OneDrive\Desktop\Schedule-FPT\fb-task-assignment\solvers\obj\Debug\net6.0\solvers.csproj.CoreCompileInputs.cache
+C:\Users\reina\OneDrive\Desktop\Schedule-FPT\fb-task-assignment\solvers\obj\Debug\net6.0\solvers.sourcelink.json
+C:\Users\reina\OneDrive\Desktop\Schedule-FPT\fb-task-assignment\solvers\bin\Debug\net6.0\libz3.dll
+C:\Users\reina\OneDrive\Desktop\Schedule-FPT\fb-task-assignment\solvers\bin\Debug\net6.0\solvers.deps.json
+C:\Users\reina\OneDrive\Desktop\Schedule-FPT\fb-task-assignment\solvers\bin\Debug\net6.0\solvers.dll
+C:\Users\reina\OneDrive\Desktop\Schedule-FPT\fb-task-assignment\solvers\bin\Debug\net6.0\solvers.pdb
+C:\Users\reina\OneDrive\Desktop\Schedule-FPT\fb-task-assignment\solvers\bin\Debug\net6.0\data-manipulation-visualisation.dll
+C:\Users\reina\OneDrive\Desktop\Schedule-FPT\fb-task-assignment\solvers\bin\Debug\net6.0\data-manipulation-visualisation.pdb
+C:\Users\reina\OneDrive\Desktop\Schedule-FPT\fb-task-assignment\solvers\obj\Debug\net6.0\solvers.csproj.Up2Date
+C:\Users\reina\OneDrive\Desktop\Schedule-FPT\fb-task-assignment\solvers\obj\Debug\net6.0\solvers.dll
+C:\Users\reina\OneDrive\Desktop\Schedule-FPT\fb-task-assignment\solvers\obj\Debug\net6.0\refint\solvers.dll
+C:\Users\reina\OneDrive\Desktop\Schedule-FPT\fb-task-assignment\solvers\obj\Debug\net6.0\solvers.pdb
+C:\Users\reina\OneDrive\Desktop\Schedule-FPT\fb-task-assignment\solvers\obj\Debug\net6.0\ref\solvers.dll

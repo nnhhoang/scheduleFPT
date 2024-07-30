@@ -1,0 +1,15 @@
+C:\Users\reina\OneDrive\Desktop\Schedule-FPT\fb-task-assignment\data-manipulation-visualisation\obj\Debug\net6.0\data-manipulation-visualisation.csproj.AssemblyReference.cache
+C:\Users\reina\OneDrive\Desktop\Schedule-FPT\fb-task-assignment\data-manipulation-visualisation\obj\Debug\net6.0\data-manipulation-visualisation.csproj.ResolveComReference.cache
+C:\Users\reina\OneDrive\Desktop\Schedule-FPT\fb-task-assignment\data-manipulation-visualisation\obj\Debug\net6.0\data-manipulation-visualisation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reina\OneDrive\Desktop\Schedule-FPT\fb-task-assignment\data-manipulation-visualisation\obj\Debug\net6.0\data-manipulation-visualisation.AssemblyInfoInputs.cache
+C:\Users\reina\OneDrive\Desktop\Schedule-FPT\fb-task-assignment\data-manipulation-visualisation\obj\Debug\net6.0\data-manipulation-visualisation.AssemblyInfo.cs
+C:\Users\reina\OneDrive\Desktop\Schedule-FPT\fb-task-assignment\data-manipulation-visualisation\obj\Debug\net6.0\data-manipulation-visualisation.csproj.CoreCompileInputs.cache
+C:\Users\reina\OneDrive\Desktop\Schedule-FPT\fb-task-assignment\data-manipulation-visualisation\obj\Debug\net6.0\data-manipulation-visualisation.sourcelink.json
+C:\Users\reina\OneDrive\Desktop\Schedule-FPT\fb-task-assignment\data-manipulation-visualisation\bin\Debug\net6.0\data-manipulation-visualisation.deps.json
+C:\Users\reina\OneDrive\Desktop\Schedule-FPT\fb-task-assignment\data-manipulation-visualisation\bin\Debug\net6.0\data-manipulation-visualisation.dll
+C:\Users\reina\OneDrive\Desktop\Schedule-FPT\fb-task-assignment\data-manipulation-visualisation\bin\Debug\net6.0\data-manipulation-visualisation.pdb
+C:\Users\reina\OneDrive\Desktop\Schedule-FPT\fb-task-assignment\data-manipulation-visualisation\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\reina\OneDrive\Desktop\Schedule-FPT\fb-task-assignment\data-manipulation-visualisation\obj\Debug\net6.0\data-manipulation-visualisation.dll
+C:\Users\reina\OneDrive\Desktop\Schedule-FPT\fb-task-assignment\data-manipulation-visualisation\obj\Debug\net6.0\refint\data-manipulation-visualisation.dll
+C:\Users\reina\OneDrive\Desktop\Schedule-FPT\fb-task-assignment\data-manipulation-visualisation\obj\Debug\net6.0\data-manipulation-visualisation.pdb
+C:\Users\reina\OneDrive\Desktop\Schedule-FPT\fb-task-assignment\data-manipulation-visualisation\obj\Debug\net6.0\ref\data-manipulation-visualisation.dll

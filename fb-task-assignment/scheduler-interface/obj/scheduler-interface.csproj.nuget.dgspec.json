@@ -1,0 +1,215 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\reina\\OneDrive\\Desktop\\Schedule-FPT\\fb-task-assignment\\scheduler-interface\\scheduler-interface.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\reina\\OneDrive\\Desktop\\Schedule-FPT\\fb-task-assignment\\data-manipulation-visualisation\\data-manipulation-visualisation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\reina\\OneDrive\\Desktop\\Schedule-FPT\\fb-task-assignment\\data-manipulation-visualisation\\data-manipulation-visualisation.csproj",
+        "projectName": "data-manipulation-visualisation",
+        "projectPath": "C:\\Users\\reina\\OneDrive\\Desktop\\Schedule-FPT\\fb-task-assignment\\data-manipulation-visualisation\\data-manipulation-visualisation.csproj",
+        "packagesPath": "C:\\Users\\reina\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\reina\\OneDrive\\Desktop\\Schedule-FPT\\fb-task-assignment\\data-manipulation-visualisation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\reina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Spectre.Console": {
+              "target": "Package",
+              "version": "[0.49.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\reina\\OneDrive\\Desktop\\Schedule-FPT\\fb-task-assignment\\scheduler-interface\\scheduler-interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\reina\\OneDrive\\Desktop\\Schedule-FPT\\fb-task-assignment\\scheduler-interface\\scheduler-interface.csproj",
+        "projectName": "scheduler-interface",
+        "projectPath": "C:\\Users\\reina\\OneDrive\\Desktop\\Schedule-FPT\\fb-task-assignment\\scheduler-interface\\scheduler-interface.csproj",
+        "packagesPath": "C:\\Users\\reina\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\reina\\OneDrive\\Desktop\\Schedule-FPT\\fb-task-assignment\\scheduler-interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\reina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\reina\\OneDrive\\Desktop\\Schedule-FPT\\fb-task-assignment\\data-manipulation-visualisation\\data-manipulation-visualisation.csproj": {
+                "projectPath": "C:\\Users\\reina\\OneDrive\\Desktop\\Schedule-FPT\\fb-task-assignment\\data-manipulation-visualisation\\data-manipulation-visualisation.csproj"
+              },
+              "C:\\Users\\reina\\OneDrive\\Desktop\\Schedule-FPT\\fb-task-assignment\\solvers\\solvers.csproj": {
+                "projectPath": "C:\\Users\\reina\\OneDrive\\Desktop\\Schedule-FPT\\fb-task-assignment\\solvers\\solvers.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\reina\\OneDrive\\Desktop\\Schedule-FPT\\fb-task-assignment\\solvers\\solvers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\reina\\OneDrive\\Desktop\\Schedule-FPT\\fb-task-assignment\\solvers\\solvers.csproj",
+        "projectName": "solvers",
+        "projectPath": "C:\\Users\\reina\\OneDrive\\Desktop\\Schedule-FPT\\fb-task-assignment\\solvers\\solvers.csproj",
+        "packagesPath": "C:\\Users\\reina\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\reina\\OneDrive\\Desktop\\Schedule-FPT\\fb-task-assignment\\solvers\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\reina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\reina\\OneDrive\\Desktop\\Schedule-FPT\\fb-task-assignment\\data-manipulation-visualisation\\data-manipulation-visualisation.csproj": {
+                "projectPath": "C:\\Users\\reina\\OneDrive\\Desktop\\Schedule-FPT\\fb-task-assignment\\data-manipulation-visualisation\\data-manipulation-visualisation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Google.OrTools": {
+              "target": "Package",
+              "version": "[9.10.4067, )"
+            },
+            "Microsoft.Z3": {
+              "target": "Package",
+              "version": "[4.12.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

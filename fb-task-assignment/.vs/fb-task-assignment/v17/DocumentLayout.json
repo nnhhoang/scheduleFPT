@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\reina\\OneDrive\\Desktop\\Schedule-FPT\\fb-task-assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E555C82-8F7F-437F-A132-815538E99E6D}|data-manipulation-visualisation\\data-manipulation-visualisation.csproj|c:\\users\\reina\\onedrive\\desktop\\schedule-fpt\\fb-task-assignment\\data-manipulation-visualisation\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E555C82-8F7F-437F-A132-815538E99E6D}|data-manipulation-visualisation\\data-manipulation-visualisation.csproj|solutionrelative:data-manipulation-visualisation\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608A9426-4550-4316-A288-8D4BA15AC35B}|scheduler-interface\\scheduler-interface.csproj|c:\\users\\reina\\onedrive\\desktop\\schedule-fpt\\fb-task-assignment\\scheduler-interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{608A9426-4550-4316-A288-8D4BA15AC35B}|scheduler-interface\\scheduler-interface.csproj|solutionrelative:scheduler-interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E555C82-8F7F-437F-A132-815538E99E6D}|data-manipulation-visualisation\\data-manipulation-visualisation.csproj|c:\\users\\reina\\onedrive\\desktop\\schedule-fpt\\fb-task-assignment\\data-manipulation-visualisation\\data-manipulation-visualisation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1E555C82-8F7F-437F-A132-815538E99E6D}|data-manipulation-visualisation\\data-manipulation-visualisation.csproj|solutionrelative:data-manipulation-visualisation\\data-manipulation-visualisation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE2C2C1-441C-4AAA-AA1D-ABF0FCADC4D3}|solvers\\solvers.csproj|c:\\users\\reina\\onedrive\\desktop\\schedule-fpt\\fb-task-assignment\\solvers\\solverconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE2C2C1-441C-4AAA-AA1D-ABF0FCADC4D3}|solvers\\solvers.csproj|solutionrelative:solvers\\solverconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE2C2C1-441C-4AAA-AA1D-ABF0FCADC4D3}|solvers\\solvers.csproj|c:\\users\\reina\\onedrive\\desktop\\schedule-fpt\\fb-task-assignment\\solvers\\fbtcpsat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE2C2C1-441C-4AAA-AA1D-ABF0FCADC4D3}|solvers\\solvers.csproj|solutionrelative:solvers\\fbtcpsat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE2C2C1-441C-4AAA-AA1D-ABF0FCADC4D3}|solvers\\solvers.csproj|c:\\users\\reina\\onedrive\\desktop\\schedule-fpt\\fb-task-assignment\\solvers\\fbtcplexcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE2C2C1-441C-4AAA-AA1D-ABF0FCADC4D3}|solvers\\solvers.csproj|solutionrelative:solvers\\fbtcplexcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE2C2C1-441C-4AAA-AA1D-ABF0FCADC4D3}|solvers\\solvers.csproj|c:\\users\\reina\\onedrive\\desktop\\schedule-fpt\\fb-task-assignment\\solvers\\fbtcplex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE2C2C1-441C-4AAA-AA1D-ABF0FCADC4D3}|solvers\\solvers.csproj|solutionrelative:solvers\\fbtcplex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608A9426-4550-4316-A288-8D4BA15AC35B}|scheduler-interface\\scheduler-interface.csproj|c:\\users\\reina\\onedrive\\desktop\\schedule-fpt\\fb-task-assignment\\scheduler-interface\\scheduler-interface.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{608A9426-4550-4316-A288-8D4BA15AC35B}|scheduler-interface\\scheduler-interface.csproj|solutionrelative:scheduler-interface\\scheduler-interface.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE2C2C1-441C-4AAA-AA1D-ABF0FCADC4D3}|solvers\\solvers.csproj|c:\\users\\reina\\onedrive\\desktop\\schedule-fpt\\fb-task-assignment\\solvers\\solvers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2EE2C2C1-441C-4AAA-AA1D-ABF0FCADC4D3}|solvers\\solvers.csproj|solutionrelative:solvers\\solvers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE2C2C1-441C-4AAA-AA1D-ABF0FCADC4D3}|solvers\\solvers.csproj|c:\\users\\reina\\onedrive\\desktop\\schedule-fpt\\fb-task-assignment\\solvers\\fbtgurobi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE2C2C1-441C-4AAA-AA1D-ABF0FCADC4D3}|solvers\\solvers.csproj|solutionrelative:solvers\\fbtgurobi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE2C2C1-441C-4AAA-AA1D-ABF0FCADC4D3}|solvers\\solvers.csproj|c:\\users\\reina\\onedrive\\desktop\\schedule-fpt\\fb-task-assignment\\solvers\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE2C2C1-441C-4AAA-AA1D-ABF0FCADC4D3}|solvers\\solvers.csproj|solutionrelative:solvers\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E555C82-8F7F-437F-A132-815538E99E6D}|data-manipulation-visualisation\\data-manipulation-visualisation.csproj|c:\\users\\reina\\onedrive\\desktop\\schedule-fpt\\fb-task-assignment\\data-manipulation-visualisation\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E555C82-8F7F-437F-A132-815538E99E6D}|data-manipulation-visualisation\\data-manipulation-visualisation.csproj|solutionrelative:data-manipulation-visualisation\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E555C82-8F7F-437F-A132-815538E99E6D}|data-manipulation-visualisation\\data-manipulation-visualisation.csproj|c:\\users\\reina\\onedrive\\desktop\\schedule-fpt\\fb-task-assignment\\data-manipulation-visualisation\\excelhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E555C82-8F7F-437F-A132-815538E99E6D}|data-manipulation-visualisation\\data-manipulation-visualisation.csproj|solutionrelative:data-manipulation-visualisation\\excelhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "solvers",
+              "DocumentMoniker": "C:\\Users\\reina\\OneDrive\\Desktop\\Schedule-FPT\\fb-task-assignment\\solvers\\solvers.csproj",
+              "RelativeDocumentMoniker": "solvers\\solvers.csproj",
+              "ToolTip": "C:\\Users\\reina\\OneDrive\\Desktop\\Schedule-FPT\\fb-task-assignment\\solvers\\solvers.csproj",
+              "RelativeToolTip": "solvers\\solvers.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-21T15:47:55.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SolverConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\reina\\OneDrive\\Desktop\\Schedule-FPT\\fb-task-assignment\\solvers\\SolverConfiguration.cs",
+              "RelativeDocumentMoniker": "solvers\\SolverConfiguration.cs",
+              "ToolTip": "C:\\Users\\reina\\OneDrive\\Desktop\\Schedule-FPT\\fb-task-assignment\\solvers\\SolverConfiguration.cs",
+              "RelativeToolTip": "solvers\\SolverConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T15:47:41.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\reina\\OneDrive\\Desktop\\Schedule-FPT\\fb-task-assignment\\solvers\\Helper.cs",
+              "RelativeDocumentMoniker": "solvers\\Helper.cs",
+              "ToolTip": "C:\\Users\\reina\\OneDrive\\Desktop\\Schedule-FPT\\fb-task-assignment\\solvers\\Helper.cs",
+              "RelativeToolTip": "solvers\\Helper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T15:42:10.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FBTCplex.cs",
+              "DocumentMoniker": "C:\\Users\\reina\\OneDrive\\Desktop\\Schedule-FPT\\fb-task-assignment\\solvers\\FBTCplex.cs",
+              "RelativeDocumentMoniker": "solvers\\FBTCplex.cs",
+              "ToolTip": "C:\\Users\\reina\\OneDrive\\Desktop\\Schedule-FPT\\fb-task-assignment\\solvers\\FBTCplex.cs",
+              "RelativeToolTip": "solvers\\FBTCplex.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADEAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T15:41:41.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FBTCplexCp.cs",
+              "DocumentMoniker": "C:\\Users\\reina\\OneDrive\\Desktop\\Schedule-FPT\\fb-task-assignment\\solvers\\FBTCplexCp.cs",
+              "RelativeDocumentMoniker": "solvers\\FBTCplexCp.cs",
+              "ToolTip": "C:\\Users\\reina\\OneDrive\\Desktop\\Schedule-FPT\\fb-task-assignment\\solvers\\FBTCplexCp.cs",
+              "RelativeToolTip": "solvers\\FBTCplexCp.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowM0BAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T15:41:38.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FBTCPSAT.cs",
+              "DocumentMoniker": "C:\\Users\\reina\\OneDrive\\Desktop\\Schedule-FPT\\fb-task-assignment\\solvers\\FBTCPSAT.cs",
+              "RelativeDocumentMoniker": "solvers\\FBTCPSAT.cs",
+              "ToolTip": "C:\\Users\\reina\\OneDrive\\Desktop\\Schedule-FPT\\fb-task-assignment\\solvers\\FBTCPSAT.cs",
+              "RelativeToolTip": "solvers\\FBTCPSAT.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAYwEIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T15:41:36.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FBTGurobi.cs",
+              "DocumentMoniker": "C:\\Users\\reina\\OneDrive\\Desktop\\Schedule-FPT\\fb-task-assignment\\solvers\\FBTGurobi.cs",
+              "RelativeDocumentMoniker": "solvers\\FBTGurobi.cs",
+              "ToolTip": "C:\\Users\\reina\\OneDrive\\Desktop\\Schedule-FPT\\fb-task-assignment\\solvers\\FBTGurobi.cs",
+              "RelativeToolTip": "solvers\\FBTGurobi.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowAUEAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T15:41:31.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\reina\\OneDrive\\Desktop\\Schedule-FPT\\fb-task-assignment\\scheduler-interface\\Program.cs",
+              "RelativeDocumentMoniker": "scheduler-interface\\Program.cs",
+              "ToolTip": "C:\\Users\\reina\\OneDrive\\Desktop\\Schedule-FPT\\fb-task-assignment\\scheduler-interface\\Program.cs",
+              "RelativeToolTip": "scheduler-interface\\Program.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAADwv0UAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T15:04:15.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "scheduler-interface.csproj",
+              "DocumentMoniker": "C:\\Users\\reina\\OneDrive\\Desktop\\Schedule-FPT\\fb-task-assignment\\scheduler-interface\\scheduler-interface.csproj",
+              "RelativeDocumentMoniker": "scheduler-interface\\scheduler-interface.csproj",
+              "ToolTip": "C:\\Users\\reina\\OneDrive\\Desktop\\Schedule-FPT\\fb-task-assignment\\scheduler-interface\\scheduler-interface.csproj",
+              "RelativeToolTip": "scheduler-interface\\scheduler-interface.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-21T15:05:00.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ExcelHandler.cs",
+              "DocumentMoniker": "C:\\Users\\reina\\OneDrive\\Desktop\\Schedule-FPT\\fb-task-assignment\\data-manipulation-visualisation\\ExcelHandler.cs",
+              "RelativeDocumentMoniker": "data-manipulation-visualisation\\ExcelHandler.cs",
+              "ToolTip": "C:\\Users\\reina\\OneDrive\\Desktop\\Schedule-FPT\\fb-task-assignment\\data-manipulation-visualisation\\ExcelHandler.cs",
+              "RelativeToolTip": "data-manipulation-visualisation\\ExcelHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T15:04:57.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataModel.cs",
+              "DocumentMoniker": "C:\\Users\\reina\\OneDrive\\Desktop\\Schedule-FPT\\fb-task-assignment\\data-manipulation-visualisation\\DataModel.cs",
+              "RelativeDocumentMoniker": "data-manipulation-visualisation\\DataModel.cs",
+              "ToolTip": "C:\\Users\\reina\\OneDrive\\Desktop\\Schedule-FPT\\fb-task-assignment\\data-manipulation-visualisation\\DataModel.cs",
+              "RelativeToolTip": "data-manipulation-visualisation\\DataModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T15:04:56.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "data-manipulation-visualisation.csproj",
+              "DocumentMoniker": "C:\\Users\\reina\\OneDrive\\Desktop\\Schedule-FPT\\fb-task-assignment\\data-manipulation-visualisation\\data-manipulation-visualisation.csproj",
+              "RelativeDocumentMoniker": "data-manipulation-visualisation\\data-manipulation-visualisation.csproj",
+              "ToolTip": "C:\\Users\\reina\\OneDrive\\Desktop\\Schedule-FPT\\fb-task-assignment\\data-manipulation-visualisation\\data-manipulation-visualisation.csproj",
+              "RelativeToolTip": "data-manipulation-visualisation\\data-manipulation-visualisation.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-21T15:04:54.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Util.cs",
+              "DocumentMoniker": "C:\\Users\\reina\\OneDrive\\Desktop\\Schedule-FPT\\fb-task-assignment\\data-manipulation-visualisation\\Util.cs",
+              "RelativeDocumentMoniker": "data-manipulation-visualisation\\Util.cs",
+              "ToolTip": "C:\\Users\\reina\\OneDrive\\Desktop\\Schedule-FPT\\fb-task-assignment\\data-manipulation-visualisation\\Util.cs",
+              "RelativeToolTip": "data-manipulation-visualisation\\Util.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T15:04:58.923Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
